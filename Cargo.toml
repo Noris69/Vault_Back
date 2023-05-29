@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "programs/gem_bank/",
+    "programs/gem_farm/",
+    "lib/gem_common",
+]
